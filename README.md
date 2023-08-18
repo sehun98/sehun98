@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=338032&height=200&section=header&text=Welcome%20to%20sehun's-nl-Github%20Story!👋&fontColor=F0FFF0&fontSize=40&animation=fadeIn&fontAlignY=27)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=338032&height=200&section=header&text=Welcome%20to%20sehun's-nl-Github%20Story!👋&fontColor=F0FFF0&fontSize=40&animation=fadeIn&fontAlignY=28)
 
 👨‍🎓 많은 사람들이 새로운 기술과 독특한 아이디어를 보여주어야 한다고 하지만, 저는 이미 있는 기술에 독특한 개성을 더하는 것도 하나의 방법이라 생각합니다. 우리만의 색깔을 표현하기 위해서는 자신이 좋아하는 것, 하고 싶은 것, 그리고 되고 싶은 모습을 생각하며 노력해야 합니다. 
 
