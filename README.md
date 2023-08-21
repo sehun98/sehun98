@@ -13,4 +13,3 @@
 
 문의사항이 있으면 언제든지 이메일로 연락 주세요(ohsehun@yonsei.ac.kr). 감사합니다! 👨‍🎓
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehun98&show_icons=true&theme=radical)
